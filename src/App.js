@@ -2,7 +2,7 @@
 function App() {
   return (
     <div className="App">
-     <h1>ivica</h1>
+     <h1>ivica ja sam kralj samo kralj</h1>
     </div>
   );
 }
