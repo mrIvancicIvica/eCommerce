@@ -1,9 +1,9 @@
-import Homepage from "./components/HomePage/Homepage.component";
+import Homepage from "./pages/HomePage/Homepage.component";
 import React from "react";
 
 function App() {
   return (
-    <div className='App'>
+    <div>
       <Homepage />
     </div>
   );
